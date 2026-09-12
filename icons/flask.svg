@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Element City app icon: original artwork for this project, CC0 1.0 -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d5f9a"/><stop offset="1" stop-color="#1c3a5e"/></linearGradient>
+    <linearGradient id="liq" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7be3c8"/><stop offset="1" stop-color="#2fb08f"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#sky)"/>
+  <rect x="8" y="34" width="10" height="20" rx="1.5" fill="#f4c27a"/>
+  <rect x="46" y="28" width="10" height="26" rx="1.5" fill="#f28c5b"/>
+  <rect x="10" y="38" width="2.5" height="3" fill="#1c3a5e"/><rect x="14" y="38" width="2.5" height="3" fill="#1c3a5e"/>
+  <rect x="10" y="44" width="2.5" height="3" fill="#1c3a5e"/><rect x="14" y="44" width="2.5" height="3" fill="#1c3a5e"/>
+  <rect x="48" y="32" width="2.5" height="3" fill="#1c3a5e"/><rect x="52" y="32" width="2.5" height="3" fill="#1c3a5e"/>
+  <rect x="48" y="38" width="2.5" height="3" fill="#1c3a5e"/><rect x="52" y="38" width="2.5" height="3" fill="#1c3a5e"/>
+  <path d="M27 10h10v3h-2v11l10 20a5 5 0 0 1-4.5 7h-17a5 5 0 0 1-4.5-7l10-20V13h-2z" fill="#f5efe6"/>
+  <path d="M24.6 40 30 29h4l5.4 11a3 3 0 0 1-2.7 4.5H27.3a3 3 0 0 1-2.7-4.5z" fill="url(#liq)"/>
+  <circle cx="31" cy="42" r="1.6" fill="#ffffff" opacity=".8"/><circle cx="35.5" cy="38.5" r="1.1" fill="#ffffff" opacity=".8"/>
+  <rect x="4" y="54" width="56" height="4" rx="2" fill="#3c4a5e"/>
+</svg>
