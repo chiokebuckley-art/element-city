@@ -15,7 +15,9 @@ every material is made of elements, and the game asks you to find them on the pe
 mole ratios, conservation of mass and a limiting reactant, and a scale-up bench in the Factory shows why big batches
 misbehave. Then you are the district's chief manufacturer: accept contracts from the school, clinic and park, investigate the
 ingredients and their elements, calculate and run batches, test them, fix what went wrong, and deliver by road so
-the city grows. Three researched missions (toothpaste teaching formula, WHO/UNICEF oral rehydration solution,
+the city grows. The city runs a small honest economy (rent, sales, upkeep, never a negative treasury), residents walk
+the streets, buildings show what they need, orders say who asked and when they are due, and on-time deliveries and
+mayor goals build the city's reputation. Three researched missions (toothpaste teaching formula, WHO/UNICEF oral rehydration solution,
 clarified pond water), a full periodic table, an on-device ingredient scanner, and a curriculum with evidence-based
 mastery. Everything runs in the browser; no account, no server, no purchases.
 
