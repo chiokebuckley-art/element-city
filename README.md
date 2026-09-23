@@ -9,9 +9,11 @@ This repository holds only the published build. The source, tests, research reco
 `element-city/` folder of the (private) `command-center` repository; the build is produced by
 `element-city/scripts/publish-pages.sh`.
 
-Start by building: every road and building is made of materials, every material is made of elements, and the
-game asks you to find them on the periodic table before construction starts (a wrong tap is explained, never
-punished). Then you are the district's chief manufacturer: accept contracts from the school, clinic and park, investigate the
+Start with six short cards on what everything is made of, then build: every road and building is made of materials,
+every material is made of elements, and the game asks you to find them on the periodic table before construction starts
+(a wrong tap is explained, never punished). A research bench in the Lab walks from limestone to lime through balancing,
+mole ratios, conservation of mass and a limiting reactant, and a scale-up bench in the Factory shows why big batches
+misbehave. Then you are the district's chief manufacturer: accept contracts from the school, clinic and park, investigate the
 ingredients and their elements, calculate and run batches, test them, fix what went wrong, and deliver by road so
 the city grows. Three researched missions (toothpaste teaching formula, WHO/UNICEF oral rehydration solution,
 clarified pond water), a full periodic table, an on-device ingredient scanner, and a curriculum with evidence-based
