@@ -1,28 +1,17 @@
 # Element City
 
-*A city-building manufacturing game where chemistry and arithmetic decide whether a batch works.*
+Play at https://chiokebuckley-art.github.io/element-city/
 
-**Play:** https://chiokebuckley-art.github.io/element-city/ — on a phone, use "Add to Home Screen" for a
-full-screen, offline-capable app.
+## Version 0.6.0: beginner city path
 
-This repository holds only the published build. The source, tests, research records and documentation live in the
-`element-city/` folder of the (private) `command-center` repository; the build is produced by
-`element-city/scripts/publish-pages.sh`.
+Start by building a road, home, lamp, shop, and park. Explore small material models and a twelve-element starter shelf, then prepare three containers of park water and deliver them by truck. Later models introduce families, protons, and ions.
 
-Start with six short cards on what everything is made of, then build: every road and building is made of materials,
-every material is made of elements, and the game asks you to find them on the periodic table before construction starts
-(a wrong tap is explained, never punished). A research bench in the Lab walks from limestone to lime through balancing,
-mole ratios, conservation of mass and a limiting reactant, and a scale-up bench in the Factory shows why big batches
-misbehave. Then you are the district's chief manufacturer: accept contracts from the school, clinic and park, investigate the
-ingredients and their elements, calculate and run batches, test them, fix what went wrong, and deliver by road so
-the city grows. The city runs a small honest economy (rent, sales, upkeep, never a negative treasury), residents walk
-the streets, buildings show what they need, orders say who asked and when they are due, and on-time deliveries and
-mayor goals build the city's reputation. Three researched missions (toothpaste teaching formula, WHO/UNICEF oral rehydration solution,
-clarified pond water), a full periodic table, an on-device ingredient scanner, and a curriculum with evidence-based
-mastery. Everything runs in the browser; no account, no server, no purchases.
+Existing cities are preserved. To use the new beginner path with an existing save, open Settings and choose **Use beginner city path**. New profiles start on it automatically.
 
-Formulations are labelled as educational or simplified simulations and are not instructions for making products for
-use or sale. Clarified water is never called potable.
+This repository contains the published browser game. Editable source, tests, and research remain in the `element-city/` folder of the private `command-center` repository (beginner changes: PR #5).
 
-Art, geometry and sound are original (CC0). Fonts Nunito and Fredoka (SIL OFL 1.1). OCR by tesseract.js with the
-tessdata_fast English model (Apache-2.0).
+The existing advanced workshop remains available. Starter models record actions tried, not certified mastery; bridges into advanced recipes remain under development.
+
+Everything runs in the browser. No account, purchases, or paid services. Simulations are educational, not instructions for making products for use or sale. Park water is not drinking water.
+
+Art, geometry and sound are original (CC0). Fonts Nunito and Fredoka (SIL OFL 1.1). OCR by tesseract.js with tessdata_fast English (Apache-2.0).
